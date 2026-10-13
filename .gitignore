@@ -1,0 +1,23 @@
+# Compiled output
+out/
+target/
+*.class
+*.jar
+sources.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
